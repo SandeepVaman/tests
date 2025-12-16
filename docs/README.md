@@ -1,4 +1,4 @@
 # Test Begins
 
 1. Added branch protection and trying to push to main
-1. Raising a PR.
+2. Raising a PR.
